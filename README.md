@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>💻 Software Engineer | 🇷🇴 Romanian</h3>
+  <h3>💻 Software Engineer</h3>
 </div>
 
 <div align="center">
