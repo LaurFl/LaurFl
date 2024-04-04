@@ -6,6 +6,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaurFl&theme=dark)](https://git.io/streak-stats)
 </div>
+<div align="center">
+
+![Laur's GitHub stats](https://github-readme-stats-iota-eight-61.vercel.app/api?username=LaurFl&theme=transparent&show_icons=true&include_all_commits=true)
+</div>
+
 <!--
 **LaurFl/LaurFl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
